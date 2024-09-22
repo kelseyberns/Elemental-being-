@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kelsey Berns - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0f7fa; /* Light blue background */
+            color: #2e7d32; /* Dark green text */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2e7d32; /* Dark green header */
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #ffffff; /* White background for content */
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #1b5e20; /* Slightly lighter green for headers */
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #2e7d32;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Kelsey Berns</h1>
+        <p>Welcome to my personal webpage</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! My name is Kelsey Berns. I am passionate about [your profession, interests, or hobbies]. 
+        I enjoy exploring new opportunities, and I'm always excited to learn and grow in my field.</p>
+
+        <p>In my spare time, I love [mention hobbies, volunteer work, or any personal pursuits]. Feel free to explore this space and get to know me better.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Kelsey Berns. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
